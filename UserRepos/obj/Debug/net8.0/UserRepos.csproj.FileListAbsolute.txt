@@ -1,0 +1,12 @@
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\bin\Debug\net8.0\UserRepos.deps.json
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\bin\Debug\net8.0\UserRepos.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\bin\Debug\net8.0\UserRepos.pdb
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.AssemblyInfoInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.AssemblyInfo.cs
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.csproj.CoreCompileInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.sourcelink.json
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\refint\UserRepos.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\UserRepos.pdb
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\UserRepos\obj\Debug\net8.0\ref\UserRepos.dll

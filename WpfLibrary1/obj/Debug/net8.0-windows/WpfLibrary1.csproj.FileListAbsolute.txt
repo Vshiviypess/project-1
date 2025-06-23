@@ -1,0 +1,12 @@
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\bin\Debug\net8.0-windows\WpfLibrary1.deps.json
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\bin\Debug\net8.0-windows\WpfLibrary1.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\bin\Debug\net8.0-windows\WpfLibrary1.pdb
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.sourcelink.json
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\refint\WpfLibrary1.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\WpfLibrary1.pdb
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\WpfLibrary1\obj\Debug\net8.0-windows\ref\WpfLibrary1.dll

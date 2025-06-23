@@ -1,0 +1,6 @@
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net4.8\UserModel.csproj.AssemblyReference.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net4.8\UserModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net4.8\UserModel.AssemblyInfoInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net4.8\UserModel.AssemblyInfo.cs
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net4.8\UserModel.csproj.CoreCompileInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net4.8\UserModel.sourcelink.json

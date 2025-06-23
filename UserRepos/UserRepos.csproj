@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Configurations>Release2024;Release2025</Configurations>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)' == 'Release2025'">
+		<TargetFramework>net8.0-windows</TargetFramework>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)' == 'Release2024'">
+		<TargetFramework>net48</TargetFramework>
+	</PropertyGroup>
+
+
+</Project>
