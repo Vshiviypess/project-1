@@ -1,0 +1,12 @@
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\bin\Debug\net8.0\UserModel.deps.json
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\bin\Debug\net8.0\UserModel.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\bin\Debug\net8.0\UserModel.pdb
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.AssemblyInfoInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.AssemblyInfo.cs
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.csproj.CoreCompileInputs.cache
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.sourcelink.json
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\refint\UserModel.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\UserModel.pdb
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\ToDo.Entities\obj\Debug\net8.0\ref\UserModel.dll
