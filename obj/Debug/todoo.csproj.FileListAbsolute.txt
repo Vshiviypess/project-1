@@ -1,0 +1,131 @@
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\todoo.exe.config
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\todoo.exe
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\todoo.pdb
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\Window1.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\App.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo_MarkupCompile.cache
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo_MarkupCompile.lref
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\Window1.baml
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.g.resources
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.Properties.Resources.resources
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.csproj.GenerateResource.cache
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.exe
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.pdb
+C:\Users\student\Desktop\newifle\todoo\todoo\bin\Debug\todoo.exe.config
+C:\Users\student\Desktop\newifle\todoo\todoo\bin\Debug\todoo.exe
+C:\Users\student\Desktop\newifle\todoo\todoo\bin\Debug\todoo.pdb
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\Window1.g.cs
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\App.g.cs
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo_MarkupCompile.cache
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo_MarkupCompile.lref
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\Window1.baml
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.g.resources
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.Properties.Resources.resources
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.csproj.GenerateResource.cache
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.exe
+C:\Users\student\Desktop\newifle\todoo\todoo\obj\Debug\todoo.pdb
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.csproj.AssemblyReference.cache
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\MainWindow.g.cs
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Page1.g.cs
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Window1.g.cs
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\App.g.cs
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo_MarkupCompile.cache
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo_MarkupCompile.lref
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.exe
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.pdb
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\todoo.exe.config
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\todoo.exe
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\todoo.pdb
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\MvvmHelpers.dll
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\System.ValueTuple.dll
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\MvvmHelpers.pdb
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\MvvmHelpers.xml
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\System.ValueTuple.xml
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Window2.g.cs
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\MainWindow.baml
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Page1.baml
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Window1.baml
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Window2.baml
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.g.resources
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.Properties.Resources.resources
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.csproj.GenerateResource.cache
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.csproj.CoreCompileInputs.cache
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo.csproj.Up2Date
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\main.g.cs
+C:\Users\moyst\Source\Repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\main.baml
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Tasks.g.cs
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\Tasks.baml
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\History.g.cs
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\History.baml
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\EntityFramework.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\EntityFramework.xml
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moyst\source\repos\KoyonGig\todorepos\newifle\newifle\todoo\todoo\obj\Debug\todoo_Content.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.csproj.AssemblyReference.cache
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\History.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\main.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\MainWindow.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\Tasks.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\Window1.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\Window2.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\App.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo_Content.g.cs
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo_MarkupCompile.cache
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo_MarkupCompile.lref
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.exe
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.pdb
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\todoo.exe.config
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\todoo.exe
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\todoo.pdb
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\EntityFramework.dll
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\MvvmHelpers.dll
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\System.ValueTuple.dll
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\EntityFramework.xml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\MvvmHelpers.pdb
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\MvvmHelpers.xml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\System.ValueTuple.xml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\bin\Debug\ru\EntityFramework.resources.dll
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\History.baml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\main.baml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\MainWindow.baml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\Tasks.baml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\Window1.baml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\Window2.baml
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.g.resources
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.Properties.Resources.resources
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.csproj.GenerateResource.cache
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\todoo (4)\todoo\todoo\obj\Debug\todoo.csproj.Up2Date
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\MvvmHelpers.dll
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\System.ValueTuple.dll
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\MvvmHelpers.pdb
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\MvvmHelpers.xml
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\System.ValueTuple.xml
+C:\Users\student\Desktop\todoo\todoo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\History.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\main.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\Tasks.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\Window2.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo_Content.g.cs
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\History.baml
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\main.baml
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\Tasks.baml
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\Window2.baml
+C:\Users\student\Desktop\todoo\todoo\obj\Debug\todoo.csproj.Up2Date
